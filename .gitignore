@@ -5,6 +5,8 @@ __pycache__/
 .idea/
 Study/
 
+docker-compose.yml
+
 # C extensions
 *.so
 
